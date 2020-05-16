@@ -35,6 +35,6 @@ public class Java {
             int n = nhap();
             System.out.println("Tong cua so "+n+" = " +tinhTong(n));
         }
-        for (int 1)
+
 
 }
